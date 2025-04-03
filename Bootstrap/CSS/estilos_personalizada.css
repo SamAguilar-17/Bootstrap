@@ -12,3 +12,10 @@ body{
 .ej-columnas{
     background-color: rgba(200,200,200, 0.9);
 }
+.row{
+    padding: 20px 0;
+    margin-top: 10px 0;
+}
+.tarjetas-1 .card{
+    margin:5px 0;
+}
